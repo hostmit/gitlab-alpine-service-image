@@ -1,2 +1,3 @@
-# gitlab-ssh-image
-gitlab-ssh-image
+# gitlab-alpine-service-image
+openssh-client rsync gettext jq
+
